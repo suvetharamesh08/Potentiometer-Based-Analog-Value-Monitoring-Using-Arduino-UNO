@@ -84,4 +84,4 @@ Through this project, I gained practical knowledge of:
 - Serial communication
 - Real-time data monitoring
 
-f my Arduino learning journey, exploring embedded systems and practical electronics.*
+f my Arduino learning journey, exploring embedded systems and practical electronics.*.
