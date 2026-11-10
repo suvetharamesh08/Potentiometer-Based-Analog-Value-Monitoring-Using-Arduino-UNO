@@ -31,19 +31,7 @@ This project provides a basic understanding of analog input reading, voltage var
 
 ## 💻 Arduino Code
 
-```cpp
-void setup() {
-  Serial.begin(9600);
-}
-
-void loop() {
-  int value = analogRead(A0);
-
-  Serial.print(value);
-
-  delay(500);
-}
-```
+[View Arduino Code](./potentiometer1.ino)
 
 ## ⚙️ Working Principle
 
@@ -84,4 +72,4 @@ Through this project, I gained practical knowledge of:
 - Serial communication
 - Real-time data monitoring
 
-f my Arduino learning journey, exploring embedded systems and practical electronics.*.
+
