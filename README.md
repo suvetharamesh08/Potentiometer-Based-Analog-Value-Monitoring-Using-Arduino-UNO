@@ -21,13 +21,6 @@ This project provides a basic understanding of analog input reading, voltage var
 - Jumper Wires
 - USB Cable
 
-## 🔌 Circuit Connections
-
-| Potentiometer Pin | Arduino UNO |
-|---|---|
-| First Terminal | 5V |
-| Middle Terminal (Wiper) | A0 |
-| Third Terminal | GND |
 
 ## 💻 Arduino Code
 
@@ -39,8 +32,8 @@ This project provides a basic understanding of analog input reading, voltage var
 2. The variable voltage is supplied to the Arduino's analog pin A0.
 3. The Arduino reads the analog voltage using its built-in ADC.
 4. The converted digital value is displayed on the Serial Monitor.
-5. The readings are updated every 500 milliseconds.
-6. ## 📷 Project Output
+5. The readings are updated every 500 milliseconds. 
+7. ## 📷 Project Output
 
 ![Potentiometer Output](<POTENTIOMETER ..jpeg>)
 
@@ -61,15 +54,4 @@ The readings change according to the position of the potentiometer knob.
 - Sensor interfacing experiments
 - Electronic control systems
 - Arduino-based embedded projects
-
-## 📚 Learning Outcomes
-
-Through this project, I gained practical knowledge of:
-
-- Arduino UNO programming
-- Analog input interfacing
-- ADC value conversion
-- Serial communication
-- Real-time data monitoring
-
 
